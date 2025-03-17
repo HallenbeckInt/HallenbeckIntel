@@ -1,0 +1,26 @@
+#LetrasEncabezado
+{
+    color: white;
+}
+
+#Footer
+{
+    background: black;
+    height: 70px;
+    border-top: 2px solid rgba(0, 0, 0, 0.24);  
+    /*  poner footer abajo */
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+
+#TablaEnvio {
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+#TablaEnvio td {
+    border: 1px solid black;
+}
